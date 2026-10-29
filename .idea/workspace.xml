@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12bd38e-a947-462d-864f-bf039ca03595" name="Changes" comment="" />
+    <list default="true" id="d12bd38e-a947-462d-864f-bf039ca03595" name="Changes" comment="commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -13,6 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "HoudaMenighed"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/HoudaMenighed/text_besed_person_research.git",
+    "accountId": "057dd6a5-5381-4145-885e-c7b9ce69a8fb"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -26,17 +40,17 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/text-Based_Person_search_v2",
+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/text-Based_Person_search_v2/data",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\data" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\model" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\utils" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\solver" />
-      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\processor" />
-      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\datasets" />
     </key>
   </component>
   <component name="SharedIndexes">
@@ -54,6 +68,19 @@
       <option name="presentableId" value="Default" />
       <updated>1793173343889</updated>
     </task>
+    <task id="LOCAL-00001" summary="commit">
+      <option name="closed" value="true" />
+      <created>1793216719424</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1793216719424</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
 </project>

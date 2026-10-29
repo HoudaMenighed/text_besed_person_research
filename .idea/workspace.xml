@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d12bd38e-a947-462d-864f-bf039ca03595" name="Changes" comment="commit">
+    <list default="true" id="d12bd38e-a947-462d-864f-bf039ca03595" name="Changes" comment="update">
+      <change afterPath="$PROJECT_DIR$/command_line.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/modified_versions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -12,21 +14,28 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "HoudaMenighed"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;HoudaMenighed&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/HoudaMenighed/text_besed_person_research.git",
-    "accountId": "057dd6a5-5381-4145-885e-c7b9ce69a8fb"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/HoudaMenighed/text_besed_person_research.git&quot;,
+    &quot;accountId&quot;: &quot;057dd6a5-5381-4145-885e-c7b9ce69a8fb&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -39,16 +48,17 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHELLCHECK.PATH": "I do mind",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/text-Based_Person_search_v2/data",
+    "last_opened_file_path": "C:/Users/ADMIN/PycharmProjects/text-Based_Person_search_v2/model",
     "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\data" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\model" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2" />
+      <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\data" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\utils" />
       <recent name="C:\Users\ADMIN\PycharmProjects\text-Based_Person_search_v2\solver" />
     </key>
@@ -76,11 +86,20 @@
       <option name="project" value="LOCAL" />
       <updated>1793216719424</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update">
+      <option name="closed" value="true" />
+      <created>1793307502115</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793307502115</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="commit" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
   </component>
 </project>

@@ -137,9 +137,9 @@ def do_train(start_epoch, args, model, train_loader, evaluator, optimizer,
                     top1 = evaluator.eval(net.eval())
 
                 torch.cuda.empty_cache()
-                if best_top1 < top1:
+                """if best_top1 < top1:
                     best_top1 = top1
-                    checkpointer.save("best", **arguments)
+                    checkpointer.save("best", **arguments)"""
         if get_rank() == 0 and (epoch + 1) % 5 == 0:
             checkpointer.save(
                 f"checkpoint_epoch_{epoch + 1}",
